@@ -1,4 +1,3 @@
-﻿using System;
 
 int n = 0;
 
